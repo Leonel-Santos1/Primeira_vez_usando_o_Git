@@ -1,0 +1,1 @@
+Adicionei um novo arquivo em C. Esse que é uma calculadora que realiza as quatro operações básicas, um algoritmo bem simples.
