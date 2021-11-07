@@ -1,5 +1,8 @@
-Ol√°, essa √© minha primeira vez usando o git. Esse arquivo .md ter√° algumas instru√ß√µes sobre um c√≥digo em lingugem C, o qual est√° no meu primeiro reposit√≥rio do github.
+Ol·, essa È minha primeira vez usando o git. Esse arquivo .md ter· algumas instruÁıes sobre um cÛdigo em lingugem C, o qual est· no meu primeiro repositÛrio do github.
 
-Anexei um arquivo em C. Esse c√≥digo em C exibe *n* notas fiscais, que solicita o *n* itens, os quais tem seu respectivos valores que o usu√°rio dever√° digitar e logo depois mostra a soma dos itens de cada nota fiscal e a soma de todas as notas fiscais.
+Anexei um arquivo em C. Esse cÛdigo em C exibe n notas fiscais, que solicita o n itens, os quais tem seu respectivos valores que o usu·rio dever· digitar e logo depois mostra a soma dos itens de cada nota fiscal e a soma de todas as notas fiscais.
 
-Ps: Isso √© uma altera√ß√£o.
+Adicionei um novo arquivo em C. Esse que È uma calculadora que realiza as quatro operaÁıes b·sicas, um algoritmo bem simples.
+
+
+Ps: Isso È uma alteraÁ„o.
